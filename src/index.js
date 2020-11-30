@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-
+//import TestComponent from '../src/components/Logo/TestComponent';
+//const element = <TestComponent name={"shyam"}/>
 ReactDOM.render(
   <React.StrictMode>
     <App />
